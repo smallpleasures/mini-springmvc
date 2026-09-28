@@ -21,9 +21,9 @@ mini-springmvc一个基于 Servlet 的轻量 MVC 实现。项目使用 Spring �
 | `mvc` | MVC 框架实现 |
 | `little` | 可部署到 Tomcat 的示例应用 |
 
-## 构建和运行
+## 构建
 
-需要 Java 8+、Maven 和 Tomcat。在项目根目录执行：
+需要 Java 8+、Maven 和 Tomcat
 
 ## 示例
 ```http request
