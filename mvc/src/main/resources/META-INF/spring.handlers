@@ -1,0 +1,2 @@
+http\://www.springframework.org/schema/mvc=com.yrainy.web.servlet.config.MvcNamespaceHandler
+https\://www.springframework.org/schema/mvc=com.yrainy.web.servlet.config.MvcNamespaceHandler

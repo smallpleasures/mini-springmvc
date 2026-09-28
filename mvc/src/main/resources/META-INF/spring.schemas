@@ -1,0 +1,2 @@
+http\://www.springframework.org/schema/mvc/spring-mvc.xsd=com/yrainy/web/servlet/config/spring-mvc.xsd
+https\://www.springframework.org/schema/mvc/spring-mvc.xsd=com/yrainy/web/servlet/config/spring-mvc.xsd
